@@ -1,5 +1,6 @@
 <?php
 
-echo phpinfo();
+$url = 'innisfree-products.json';
+
 
 ?>
