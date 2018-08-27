@@ -7,10 +7,7 @@ $json = str_replace("[[[", "[", $json);
 
 $data = json_decode($json);
 
-echo "
-
-   
-";
+echo " ";
 
 
 foreach ($data as $key => $value) {
